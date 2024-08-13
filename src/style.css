@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#excuse {
+  text-align: center;
+}
+
+.card-title {
+  text-align: center;
+}
